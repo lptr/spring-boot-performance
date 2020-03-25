@@ -1,0 +1,6 @@
+[submodule "gradle-profiler"]
+	path = gradle-profiler
+	url = https://github.com/gradle/gradle-profiler
+[submodule "spring-boot"]
+	path = spring-boot
+	url = https://github.com/spring-projects/spring-boot
